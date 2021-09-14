@@ -4,7 +4,7 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tensaitensai&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tensaitensai">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensaitensai&layout=compact&theme=dracula&hide=tex,C" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensaitensai&layout=compact&theme=dracula&hide=tex,Jupyter Notebook" />
 </a>
 
 <!--
